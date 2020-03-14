@@ -2,7 +2,7 @@
 <div class="container">
   <h1 class="centered">Welcome to PCPartStuff.com</h1>
   <p class="centered">In this website you will be given the challenge to build your own PC. The goal is to 
-    build the best performance PC for the lowest price.</p>
+    build the best performing PC for the lowest price.</p>
   <img class="centered" src="../../public/fire.gif">
   <br>
   <router-link class="button centered" to="/build">

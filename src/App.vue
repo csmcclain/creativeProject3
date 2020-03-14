@@ -13,8 +13,8 @@
   </div>
   <router-view />
   <footer>
-  <p>GitHub:<a class="foot" href="https://github.com/CJohnL/CS-260-Creative-Project-1">
-  CS-260-Creative-Project-1</a></p>
+  <p>GitHub:<a class="foot" href="https://github.com/csmcclain/creativeProject3">
+  CS-260-Creative-Project-3</a></p>
 </footer>
 </div>
 </template>
@@ -42,7 +42,7 @@ a {
 .ul {
   list-style-type: none;
   margin: 0;
-  padding: 2px;
+  padding: 5px;
   overflow: hidden;
   display: flex;
   justify-content: space-around;
@@ -55,7 +55,7 @@ a {
 }
 
 footer {
-  padding: 2px;
+  padding: 5px;
   width: 100%;
   position: fixed;
   bottom: 0;
@@ -70,7 +70,7 @@ footer {
 }
 
 .foot {
-  color: rgb(34, 102, 95);
+  color: #2E8B57;
   font-weight: bold;
   text-decoration: none;
 }
