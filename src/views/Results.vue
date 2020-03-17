@@ -92,7 +92,8 @@ export default {
            return score.toFixed();
        },
        daPrice() {
-           return this.$root.$data.rom1.intPrice + this.$root.$data.cpu1.intPrice + this.$root.$data.gpu1.intPrice + this.$root.$data.ram1.intPrice;
+           let price = this.$root.$data.rom1.intPrice + this.$root.$data.cpu1.intPrice + this.$root.$data.gpu1.intPrice + this.$root.$data.ram1.intPrice;
+           return price.toFixed(2);
        }
     },
     methods:{
