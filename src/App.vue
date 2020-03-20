@@ -13,7 +13,7 @@
   </div>
   <router-view />
   <footer>
-  <p>GitHub:<a class="foot" href="https://github.com/CJohnL/creative-project-3">
+  <p>GitHub:<a class="foot" href="https://github.com/csmcclain/creativeProject3">
   CS-260-Creative-Project-3</a></p>
 </footer>
 </div>
